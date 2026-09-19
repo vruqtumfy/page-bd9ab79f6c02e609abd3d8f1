@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "bbd08d875d0eb0ae44c5cbee",
+  "owner": "vruqtumfy",
+  "repo": "page-bd9ab79f6c02e609abd3d8f1",
+  "title": "免费订阅节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bd9ab79f6c02e609abd3d8f1",
+      "a": "Walless",
+      "b": "免费订阅节点",
+      "entity": "Walless",
+      "brand": "免费订阅节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cf47b844453673d66c63e3a6aaeeed1f8913f15cf7d4f55fb339b380d954d6bf",
+      "content": {
+        "primary_entity": "Walless",
+        "keyword1": "Walless",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端：Windows 可选 Clash Verge，macOS 用 ClashX，iOS 用 Shadowrocket，Android 用 v2rayNG 或 Clash Meta。导入订阅前确认客户端版本支持当前协议，各平台兼容情况以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐、导入订阅，就能在常用设备上开始连接。",
+          "AI_CLOSING_TITLE": "开始使用 Walless",
+          "AI_DESCRIPTION": "，Walless 提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线的配置范围，按年付价格更划算。",
+          "AI_FEATURES_INTRO": "套餐差异主要体现在流量、设备数与线路类型，按实际用量挑选即可。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线并优化游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，支持 20 台设备，可定制路由并配备客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按订阅周期选套餐",
+          "AI_GUIDE_INTRO": "Walless 的订阅配置涉及套餐、设备与客户端三个方面。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "Walless 提供基础版、旗舰版与团队版三档海外加速套餐，月流量从 100GB 到 1000GB，覆盖 3 至 20 台设备。按流量与设备需求选择套餐，在常用客户端导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "100GB 到 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。年付分别约为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适用客户端与协议要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成节点配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Walless 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版适合一两台设备、每月流量 100GB 以内的用户；旗舰版适合三到五台设备、有流媒体和游戏需求，每月 300GB 流量；团队版面向二十台设备同时在线、月流量 1000GB 的场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数指同一时间保持连接的终端数量，手机、电脑、平板分别计算。",
+          "AI_FAQ_ANSWER_3": "可以。年付把 12 个月按 10 个月计费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比月付分别节省 ¥30、¥70、¥170。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅地址或二维码，选择延迟较低的节点后连接。不同系统的客户端导入位置不同，参照对应客户端的使用说明操作即可。",
+          "AI_FAQ_ANSWER_5": "流量按自然月计算，月底清零不结转。如需更大流量可随时升级到更高一档套餐，升级后新流量额度当月生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付能比月付省多少钱？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里配置订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样，可以升级套餐吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "608e7ff063db8ea20bd2bc699e188f6f8edc21da1160b6f83c978556dc1281cc",
+    "sitemap.xml": "128243eaf4428ae00f67c698a7fb8540e43b42348fc313d8503c9d3fd5786669",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e7c2a458fccb93a4bb0530f192dfa2cbab053862ceebc6dbcbf8e06dff97e693"
+}
